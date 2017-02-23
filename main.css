@@ -20,7 +20,7 @@ a:visited {
 }
 
 .container {
-  margin: 0 auto;
+  margin: 0 auto 25px auto;
   max-width: 1150px;
   padding: 0 25px;
 }
